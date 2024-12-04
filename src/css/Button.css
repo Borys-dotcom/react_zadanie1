@@ -1,0 +1,15 @@
+.counter-button {
+    background-color: blue;
+    padding: 12px 24px;
+    border: none;
+    color: white;
+    margin: 0 12px;
+    transition: all .3s;
+    
+}
+
+.counter-button:hover {
+    background-color: rgb(178, 178, 249);
+    color: black;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.counter-body {
+    width: 600px;
+    border: 1px solid blue;
+    margin: 12px auto;
+    padding: 24px;
+}
+
+.clockControl {
+    text-decoration: underline;
+}
+
+.clockControl:hover {
+    cursor: pointer;
+}
